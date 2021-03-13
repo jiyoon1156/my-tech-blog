@@ -1,5 +1,9 @@
 # My Tech Blog Article Lists
 
+Medium 에서는 글 목록을 볼 수 없어 기록하는 목록.
+
+블로그 주소: https://forhjy.medium.com/
+
 |Title|Date|
 |------|---|
 |[\[Algorithms\]Binary Search PS](https://forhjy.medium.com/algorithms-binary-search-ps-33ed8b56423a)|Mar 13, 2021|
