@@ -3,272 +3,218 @@
 		{
 			"id": 1,
 			"title": "42 서울, 피씬 Piscine 합격 후기",
-			"summary": "",
+			"summary": "정부 IT 교육 프로그램인 42 서울의 관문인 피씬에 합격한 후기입니다.",
 			"url": "https://forhjy.medium.com/42-%EC%84%9C%EC%9A%B8-%ED%94%BC%EC%94%AC-piscine-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-732daf988060",
 			"date": "Jul 12, 2020",
-			"tags": [
-				""
-			]
+			"tags": "IT교육"
 		},
 		{
 			"id": 2,
 			"title": "[ASM] How to compile ASM with C in macOS",
-			"summary": "",
+			"summary": "MacOS 에서 Assembly 언어로 작성된 파일을 어떻게 컴파일하는지에 대한 튜토리얼입니다.",
 			"url": "https://forhjy.medium.com/how-to-compile-asm-s-with-c-c-in-macos-e2cad3193300",
 			"date": "Aug 30, 2020",
-			"tags": [
-				""
-			]
+			"tags": "ASM"
 		},
 		{
 			"id": 3,
 			"title": "[42 ft_server] How to install LEMP + Wordpress on Debian buster by using Dockerfile — 1",
-			"summary": "",
+			"summary": "Docker를 사용해서 LEMP + Wordpress 스택으로 어떻게 서버를 구성하는지에 대한 튜토리얼입니다.",
 			"url": "https://forhjy.medium.com/how-to-install-lemp-wordpress-on-debian-buster-by-using-dockerfile-1-75ddf3ede861",
 			"date": "Aug 31, 2020",
-			"tags": [
-				""
-			]
+			"tags": "Docker"
 		},
 		{
 			"id": 4,
 			"title": "[C++] std::string 문자열 조작 함수",
-			"summary": "",
+			"summary": "CPP에서 std::string 에는 어떠한 문자열 관련한 함수들이 있는지 소개하는 글입니다.",
 			"url": "https://forhjy.medium.com/c-std-string-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%A1%B0%EC%9E%91-%ED%95%A8%EC%88%98-72a7d7dc5be7",
 			"date": "Sep 12, 2020",
-			"tags": [
-				""
-			]
+			"tags": "C++"
 		},
 		{
 			"id": 5,
 			"title": "[42 ft_server] How to install LEMP + Wordpress on Debian buster by using Dockerfile — 2",
-			"summary": "",
+			"summary": "Docker를 사용해서 LEMP + Wordpress 스택으로 어떻게 서버를 구성하는지에 대한 두번째 튜토리얼입니다.",
 			"url": "https://forhjy.medium.com/42-ft-server-how-to-install-lemp-wordpress-on-debian-buster-by-using-dockerfile-2-4042adb2ab2c",
 			"date": "Sep 18, 2020",
-			"tags": [
-				""
-			]
+			"tags": "Docker"
 		},
 		{
 			"id": 6,
 			"title": "[HTTP] Socket Programming, Blocking vs Non-Blocking server",
-			"summary": "",
+			"summary": "HTTP 서버를 만들기 위해 소켓 프로그래밍을 하며 블로킹과 논블로킹 서버의 차이에 관해 공부했던 글입니다.",
 			"url": "https://forhjy.medium.com/42-webserv-socket-programming-blocking-vs-non-blocking-server-c4fdfbac32f1",
 			"date": "Sep 27, 2020",
-			"tags": [
-				""
-			]
+			"tags": "Server"
 		},
 		{
 			"id": 7,
 			"title": "[HTTP] CGI Programming",
-			"summary": "",
+			"summary": "소켓 프로그래밍을 진행하며 CGI 프로그래밍을 어떻게 했는지에 대한 글입니다.",
 			"url": "https://forhjy.medium.com/42-webserv-cgi-programming-66d63c3b22db",
 			"date": "Oct 7, 2020",
-			"tags": [
-				""
-			]
+			"tags": "Server"
 		},
 		{
 			"id": 8,
 			"title": "[Design] 미디엄 로고가 바뀌었다. 근데 낯설지가 않다?",
-			"summary": "",
+			"summary": "디자인 표절에 관한 글입니다.",
 			"url": "https://forhjy.medium.com/%EB%AF%B8%EB%94%94%EC%97%84-%EB%A1%9C%EA%B3%A0%EA%B0%80-%EB%B0%94%EB%80%8C%EC%97%88%EB%8B%A4-%EA%B7%BC%EB%8D%B0-%EB%82%AF%EC%84%A4%EC%A7%80%EA%B0%80-%EC%95%8A%EB%8B%A4-7686d760a494",
 			"date": "Oct 18, 2020",
-			"tags": [
-				""
-			]
+			"tags": "Design"
 		},
 		{
 			"id": 9,
 			"title": "[42 ft_services]How to install Kubernetes, MetalLB",
-			"summary": "",
+			"summary": "쿠버네티스를 minikube를 통해 어떻게 설치하는지에 대한 글입니다.",
 			"url": "https://forhjy.medium.com/42-ft-service-how-to-install-kubernetes-metallb-30d66f92d726",
 			"date": "Oct 24, 2020",
-			"tags": [
-				""
-			]
+			"tags": "K8S"
 		},
 		{
 			"id": 10,
-			"title": "[React] Solution for ‘children’ is missing in props validation eslin",
-			"summary": "",
+			"title": "[React] Solution for ‘children’ is missing in props validation eslint",
+			"summary": "eslint 경고문에 대한 솔루션을 적은 글입니다.",
 			"url": "react/prop-types)",
 			"date": "Nov 1, 2020",
-			"tags": [
-				""
-			]
+			"tags": "React"
 		},
 		{
 			"id": 11,
 			"title": "[42 ft_services] Install Nginx with Kubernetes",
-			"summary": "",
+			"summary": "쿠버네티스를 통해 nginx을 어떻게 설치하는지를 적은 튜토리얼입니다.",
 			"url": "https://forhjy.medium.com/42-ft-services-install-nginx-with-kubernetes-fd22a5fcb062",
 			"date": "Nov 7, 2020",
-			"tags": [
-				""
-			]
+			"tags": "K8S"
 		},
 		{
 			"id": 12,
 			"title": "[React] How to make API calls in React.js",
-			"summary": "",
+			"summary": "리액트 프로젝트에서 어떻게 api 호출을 하는지에 대한 튜토리얼입니다.",
 			"url": "https://forhjy.medium.com/react-how-to-make-api-calls-in-react-js-9edb8dd4edb3",
 			"date": "Nov 14, 2020",
-			"tags": [
-				""
-			]
+			"tags": "React"
 		},
 		{
 			"id": 13,
 			"title": "[선형대수] 행렬을 사용해 간단한 암호문 만들어보기",
-			"summary": "",
+			"summary": "선형대수 수업 과제 중 정칙행렬로 암호화, 복호화해보는 문제를 푸는 방법에 대한 글입니다.",
 			"url": "https://forhjy.medium.com/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98-%ED%96%89%EB%A0%AC%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%95%94%ED%98%B8%EB%AC%B8-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-f894171d5f74",
 			"date": "Nov 22, 2020",
-			"tags": [
-				""
-			]
+			"tags": "Linear Algebra"
 		},
 		{
 			"id": 14,
 			"title": "[CS] 개발자 기초 지식 20선",
-			"summary": "",
+			"summary": "보이저엑스 남세동 대표의 개발자 기초 지식 20선을 공부한 글입니다.",
 			"url": "https://forhjy.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%B4%88-%EC%A7%80%EC%8B%9D-20%EC%84%A0-1ef96192f189",
 			"date": "Nov 28, 2020",
-			"tags": [
-				""
-			]
+			"tags": "CS"
 		},
 		{
 			"id": 15,
 			"title": "[42 Hackathon] 42 Seoul 첫 해커톤 후기",
-			"summary": "",
+			"summary": "42서울에서 진행한 해커톤 후기입니다.",
 			"url": "https://forhjy.medium.com/42-hackathon-42-seoul-%EC%B2%AB-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0-21c8900584f",
 			"date": "Dec 19, 2020",
-			"tags": [
-				""
-			]
+			"tags": "IT교육"
 		},
 		{
 			"id": 16,
 			"title": "[django] How to make REST API using django rest framework",
-			"summary": "",
+			"summary": "파이썬 장고에서 어떻게 rest api를 만드는지에 대한 튜토리얼입니다.",
 			"url": "https://forhjy.medium.com/python3-how-to-make-rest-api-using-django-rest-framework-a573ffa63ca7",
 			"date": "Dec 26, 2020",
-			"tags": [
-				""
-			]
+			"tags": "Django"
 		},
 		{
 			"id": 17,
 			"title": "[django, React] Has been blocked by CORS policy? net::ERR_FAILED?",
-			"summary": "",
+			"summary": "장고와 리액트를 연동하면서 겪은 에러들에 대한 솔루션입니다.",
 			"url": "https://forhjy.medium.com/django-react-has-been-blocked-by-cors-policy-net-err-failed-725723b019d4",
 			"date": "Jan 1, 2021",
-			"tags": [
-				""
-			]
+			"tags": "Django"
 		},
 		{
 			"id": 18,
 			"title": "[2020] 기술 블로그 결산",
-			"summary": "",
+			"summary": "2021 새해에 쓴 2020년 블로그 결산입니다.",
 			"url": "https://forhjy.medium.com/2020-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B2%B0%EC%82%B0-b9fa036851a7",
 			"date": "Jan 9, 2021",
-			"tags": [
-				""
-			]
+			"tags": "etc"
 		},
 		{
 			"id": 19,
 			"title": "[CS] What do you know about segmentation fault?",
-			"summary": "",
+			"summary": "segmentation fault는 운영체제와 관련이 있다는 글입니다.",
 			"url": "https://forhjy.medium.com/cs-what-do-you-know-about-segmentation-fault-1aca43f9d162",
 			"date": "Jan 28, 2021",
-			"tags": [
-				""
-			]
+			"tags": "CS"
 		},
 		{
 			"id": 20,
 			"title": "[CI/CD] Github Actions로 .env / dotenv 파일 만들기",
-			"summary": "",
+			"summary": "Github Actions 스크립트로 env 파일을 짜넣는 방법에 관한 글입니다.",
 			"url": "https://forhjy.medium.com/ci-cd-github-actions%EB%A1%9C-env-dotenv-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-4592a6720c6d",
 			"date": "Feb 21, 2021",
-			"tags": [
-				""
-			]
+			"tags": "CI/CD"
 		},
 		{
 			"id": 21,
 			"title": "[Algorithms]DFS/BFS PS",
-			"summary": "",
+			"summary": "알고리즘 깊이우선탐색, 넓이우선탐색을 공부하며 쓴 글입니다.",
 			"url": "https://forhjy.medium.com/algorithm-dfs-bfs-ps-c006951cbbe7",
 			"date": "Feb 26, 2021",
-			"tags": [
-				""
-			]
+			"tags": "Algorithms"
 		},
 		{
 			"id": 22,
 			"title": "[Project_mkdev] 개발 입문자는 토이 프로젝트에서 무엇을 배웠는가",
-			"summary": "",
+			"summary": "개발자 심리테스트 토이 프로젝트 후기입니다.",
 			"url": "https://forhjy.medium.com/project-mkdev-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%8A%94-%ED%86%A0%EC%9D%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EB%AC%B4%EC%97%87%EC%9D%84-%EB%B0%B0%EC%9B%A0%EB%8A%94%EA%B0%80-c43cf31b407",
 			"date": "Mar 5, 2021",
-			"tags": [
-				""
-			]
+			"tags": "Toy Project"
 		},
 		{
 			"id": 23,
 			"title": "[Algorithms]Binary Search PS",
-			"summary": "",
+			"summary": "알고리즘 이진탐색을 공부하며 쓴 글입니다.",
 			"url": "https://forhjy.medium.com/algorithms-binary-search-ps-33ed8b56423a",
 			"date": "Mar 13, 2021",
-			"tags": [
-				""
-			]
+			"tags": "Algorithms"
 		},
 		{
 			"id": 24,
 			"title": "[Algorithms]Dynamic Programming",
-			"summary": "",
+			"summary": "알고리즘 다이나믹 프로그래밍을 공부하며 쓴 글입니다.",
 			"url": "https://forhjy.medium.com/algorithms-dynamic-programming-40a6e29d15ab",
 			"date": "Mar 21, 2021",
-			"tags": [
-				""
-			]
+			"tags": "Algorithms"
 		},
 		{
 			"id": 25,
 			"title": "[Project_coupon] 쿠폰 발행 시스템 코드 리뷰 후기",
-			"summary": "",
+			"summary": "개인 프로젝트를 진행한 후기입니다.",
 			"url": "https://forhjy.medium.com/project-coupon-%EC%BF%A0%ED%8F%B0-%EB%B0%9C%ED%96%89-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%ED%9B%84%EA%B8%B0-76cc78133cda",
 			"date": "Mar 27, 2021",
-			"tags": [
-				""
-			]
+			"tags": "Toy Project"
 		},
 		{
 			"id": 26,
 			"title": "[Algorithms]Sort 정렬 알고리즘",
-			"summary": "",
+			"summary": "정렬 알고리즘 공부를 하며 쓴 글입니다.",
 			"url": "https://forhjy.medium.com/algorithms-sort-%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-6ba8e3dc684",
 			"date": "Apr 4, 2021",
-			"tags": [
-				""
-			]
+			"tags": "Algorithms"
 		},
 		{
 			"id": 27,
 			"title": "[OS]Thread 의 등장 배경에서 경제학을 보았다.",
-			"summary": "",
+			"summary": "운영체제를 공부하며 경제학과 비슷한 점을 적은 에세이입니다.",
 			"url": "https://forhjy.medium.com/os-thread-%EC%9D%98-%EB%93%B1%EC%9E%A5-%EB%B0%B0%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9D%84-%EB%B3%B4%EC%95%98%EB%8B%A4-222f65802d8e",
 			"date": "Apr 10, 2021",
-			"tags": [
-				""
-			]
+			"tags": "CS"
 		}
 	]
 }

@@ -23,11 +23,11 @@ for line in lines:
 				"summary": "",
 				"url": url,
 				"date": date,
-				"tags": [""]
+				"tags": ""
 			})
 
 data = sorted(data, key=(lambda x:x['id']))
 
 file_data["data"] = data
-with open('./public/data.json', 'w', encoding="utf-8") as make_file:
+with open('../src/data.json', 'w', encoding="utf-8") as make_file:
 	json.dump(file_data, make_file, ensure_ascii=False, indent='\t')
