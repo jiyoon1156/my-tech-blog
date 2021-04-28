@@ -9,13 +9,14 @@
 
 <img width="1239" alt="스크린샷 2021-04-27 오후 11 40 11" src="https://user-images.githubusercontent.com/60052127/116261666-d553fa80-a7b2-11eb-8435-1242fbf57a57.png">
 
-### Credit
+### Build With
 
 - Typescript
 - React
 - tailwindCSS
+- Python3
 
-### Run
+### Runnig Locally
 
 ```bash
 npm install
