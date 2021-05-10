@@ -1,10 +1,17 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { data } from './data.json'
 
 const Tables: React.FC = () => {
-	console.log(data)
+
+	const [info, setInfo] = useState(0);
+	const [revData, setRevData] = useState(data);
+	const onClick = () => {
+		setRevData(revData.reverse());
+		setInfo(info + 1);
+	};
 	return (
 		<>
+		<div className="hidden">{info}</div>
 			<div className="flex flex-col">
 				<div className="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
 					<div className="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8">
@@ -14,9 +21,9 @@ const Tables: React.FC = () => {
 									<tr>
 										<th
 											scope="col"
-											className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
+											className="px-6 py-3 text-left text-m font-medium text-gray-500 uppercase tracking-wider"
 										>
-											No
+											<button onClick={() => onClick()} className="focus:outline-none">🔽</button>
 										</th>
 										<th
 											scope="col"
@@ -45,7 +52,7 @@ const Tables: React.FC = () => {
 									</tr>
 								</thead>
 								<tbody className="bg-white divide-y divide-gray-200">
-									{data.map((idx) => (
+									{revData.map((idx) => (
 										<tr key={idx.id}>
 											<td className="px-7 py-4 whitespace-nowrap">
 												<div className="text-sm text-gray-900">{idx.id}</div>
