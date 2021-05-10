@@ -215,6 +215,14 @@
 			"url": "https://forhjy.medium.com/os-thread-%EC%9D%98-%EB%93%B1%EC%9E%A5-%EB%B0%B0%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9D%84-%EB%B3%B4%EC%95%98%EB%8B%A4-222f65802d8e",
 			"date": "Apr 10, 2021",
 			"tags": "CS"
+		},
+		{
+			"id": 28,
+			"title": "[Project_blog] Why readers cannot see list of articles in Medium?",
+			"summary": "블로그 리스트를 만든 계기와 과정에 대해서 적었습니다.",
+			"url": "https://forhjy.medium.com/project-blog-why-readers-cannot-see-list-of-articles-in-medium-c9420f9278f8",
+			"date": "May 10, 2021",
+			"tags": "Toy Project"
 		}
 	]
 }
